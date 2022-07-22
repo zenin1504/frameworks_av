@@ -348,6 +348,10 @@ public:
     static std::string getCurrPackageName();
 
     /////////////////////////////////////////////////////////////////////
+    // Add support to set vendor tag with client package name
+    static std::string getCurrPackageName();
+
+    /////////////////////////////////////////////////////////////////////
     // CameraClient functionality
 
     class BasicClient :
